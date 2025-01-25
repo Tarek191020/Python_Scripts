@@ -1,8 +1,10 @@
-# Password Validator
+# Supermarket System
 
-This script validates a password based on the following rules:
-1. The password must be at least 8 characters long.
-2. The password must contain at least one special character (`$`, `%`, `@`, `_`, `!`).
-3. The password must contain at least one uppercase letter.
-4. The password must contain at least one lowercase letter.
-5. The password must contain at least one digit.
+This script simulates a simple supermarket system for managing a shopping list.
+
+## Features
+- Add items to the shopping list.
+- Delete items from the shopping list.
+- Display all items in the shopping list.
+- Clear the entire shopping list.
+- Exit the program.
